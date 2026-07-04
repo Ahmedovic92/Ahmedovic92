@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahmedovic92
+- 👋 Hi, I’m JesseJones
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on nothing.
