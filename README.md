@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Ahmedovic92
-- 👀 I’m interested in Coding w/ cousin
-- 🌱 I’m currently learning all kinds of programming
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me: None.
+- 📫 How to reach me: @jessejones92 on Discord
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Bosnia strong!!!
+- ⚡ Fun fact: Bosniak
 
 <!---
 Ahmedovic92/Ahmedovic92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
